@@ -1,0 +1,7 @@
+{
+  "name": "TutorAlly: Behavioral Support System",
+  "description": "A comprehensive tool for tutors to manage difficult student behaviors, featuring an AI coaching assistant, practice simulations, and behavior tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
